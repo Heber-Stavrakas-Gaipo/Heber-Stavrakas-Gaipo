@@ -1,4 +1,4 @@
-# Hi, I'm Héber Stavrakas Gaipo and I'm using GitHub
+# Hi there, I'm Héber Stavrakas Gaipo and I'm using GitHub
 
 <!--
 **Heber-Stavrakas-Gaipo/Heber-Stavrakas-Gaipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
