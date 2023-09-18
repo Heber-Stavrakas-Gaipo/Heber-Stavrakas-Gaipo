@@ -12,3 +12,11 @@ Here are some ideas to get you started:
 - 🤔 I’m not looking for help yet
 - 💬 Ask me about anything
 - 📫 How to reach me: contatohebergaipo@gmail.com
+
+---
+
+<p align="left">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/Heber_Stavrakas_Gaipo-blue?style=flat&logo=LinkedIn&logoColor=blue&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fheber-stavrakas-gaipo%2F">
+  
+  <img alt="Instagram" src="https://img.shields.io/badge/Heber_Stavrakas_Gaipo-white?style=social&logo=instagram&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fheber-stavrakas-gaipo%2F">
+</p>
