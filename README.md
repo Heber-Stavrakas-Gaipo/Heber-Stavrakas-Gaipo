@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="left">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/Heber_Stavrakas_Gaipo-blue?style=flat&logo=LinkedIn&logoColor=blue&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fheber-stavrakas-gaipo%2F">
+  <a href="HTTPS://www.linkedin.com/heber-stavrakas-gaipo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Heber_Stavrakas_Gaipo-blue?style=flat&logo=LinkedIn&logoColor=blue&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fheber-stavrakas-gaipo%2F"></a>
   
-  <img alt="Instagram" src="https://img.shields.io/badge/Heber_Stavrakas_Gaipo-white?style=social&logo=instagram&logoColor=black&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fheber-stavrakas-gaipo%2F">
+  <a href="https://instagram.com/heber_stavrakas?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Heber_Stavrakas_Gaipo-blue?style=flat&logo=instagram&logoColor=black&labelColor=white></a>
 </p>
