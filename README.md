@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m not currently working on, but searching for
-- 🌱 I’m currently learning WEB Dev
+- 🌱 I’m currently studying computer engineering 
 - 👯 I’m actually looking to collaborate on something
 - 🤔 I’m not looking for help yet
 - 💬 Ask me about anything
