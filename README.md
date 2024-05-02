@@ -21,7 +21,7 @@ I am a computer engineering student at Universidade do Estado de Minas Gerais an
 
 ---
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.8rem;">
+<div aLign="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.8rem;">
   <a href="https://www.linkedin.com/in/heber-stavrakas-gaipo/"><img aLign="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/heber_stavrakas/"><img aLign="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/Heber-Stavrakas-Gaipo"><img aLign="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
