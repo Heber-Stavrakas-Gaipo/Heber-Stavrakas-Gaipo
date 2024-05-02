@@ -15,9 +15,33 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/heber-stavrakas-gaipo"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/Heber_Stavrakas_Gaipo-%230072b1?style=flat&logo=LinkedIn&logoColor=%230072b1&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fheber-stavrakas-gaipo%2F"></a>
-  
-  <a href="https://instagram.com/heber_stavrakas"><img align="left" alt="Instagram" src="https://img.shields.io/badge/heber__stavrakas-%23E1306C?style=flat&logo=instagram&labelColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fheber_stavrakas%2F">
-</a>
-</p>
+## About me
+
+I am a computer engineering student at Universidade do Estado de Minas Gerais and very interested of this area and everything that can be made with the knowledges achieved on this journey.
+
+---
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.8rem;">
+  <a href="https://www.linkedin.com/in/heber-stavrakas-gaipo/"><img aLign="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/heber_stavrakas/"><img aLign="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Heber-Stavrakas-Gaipo"><img aLign="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Heber-Stavrakas-Gaipo/Portfolio"><img aLign="center" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://heber-stavrakas-gaipo.github.io/DevLinksTree/"><img aLign="center" alt="DevLinksTree" src="https://img.shields.io/badge/DevLinksTree-hhh?style=for-the-badge" /></a>
+  <a href="mailto:contatohebergaipo@gmail.com"><img aLign="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heber-Stavrakas-Gaipo&theme=solid&border_color=3299cc&show_icons=true&icon_color=30A3DC&title_color=3299CC&text_color=000)
+
+</div>
+
+---
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&layout=compact&border_color=3299cc&title_color=3299cc&text_color=000)
+
+</div>
