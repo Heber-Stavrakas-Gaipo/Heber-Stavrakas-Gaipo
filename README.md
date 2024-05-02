@@ -22,12 +22,12 @@ I am a computer engineering student at Universidade do Estado de Minas Gerais an
 ---
 
 <div aLign="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.8rem;">
-  <a href="https://www.linkedin.com/in/heber-stavrakas-gaipo/"><img aLign="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/heber_stavrakas/"><img aLign="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/Heber-Stavrakas-Gaipo"><img aLign="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Heber-Stavrakas-Gaipo/Portfolio"><img aLign="center" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://heber-stavrakas-gaipo.github.io/DevLinksTree/"><img aLign="center" alt="DevLinksTree" src="https://img.shields.io/badge/DevLinksTree-hhh?style=for-the-badge" /></a>
-  <a href="mailto:contatohebergaipo@gmail.com"><img aLign="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://www.linkedin.com/in/heber-stavrakas-gaipo/" style="margin: 0.4rem 0"><img aLign="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/heber_stavrakas/" style="margin: 0.4rem 0"><img aLign="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Heber-Stavrakas-Gaipo" style="margin: 0.4rem 0"><img aLign="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Heber-Stavrakas-Gaipo/Portfolio" style="margin: 0.4rem 0"><img aLign="center" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://heber-stavrakas-gaipo.github.io/DevLinksTree/" style="margin: 0.4rem 0"><img aLign="center" alt="DevLinksTree" src="https://img.shields.io/badge/DevLinksTree-hhh?style=for-the-badge" /></a>
+  <a href="mailto:contatohebergaipo@gmail.com" style="margin: 0.4rem 0"><img aLign="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
 </div>
 
 ---
