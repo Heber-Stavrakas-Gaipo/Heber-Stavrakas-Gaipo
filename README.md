@@ -32,16 +32,36 @@ I am a computer engineering student at Universidade do Estado de Minas Gerais an
 
 ---
 
+## 📊 Estatísticas do meu perfil
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heber-Stavrakas-Gaipo&theme=solid&border_color=3299cc&show_icons=true&icon_color=30A3DC&title_color=3299CC&text_color=000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heber-Stavrakas-Gaipo&theme=solid&border_color=3299cc&show_icons=true&icon_color=30A3DC&title_color=3299CC&text_color=000&hide_title=true)
 
 </div>
 
 ---
 
+## Principais linguagens utilizadas em meus repositórios
+
 <div align="center">
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&layout=compact&border_color=3299cc&title_color=3299cc&text_color=000)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&layout=compact&border_color=3299cc&title_color=3299cc&text_color=000&hide_title=true)
 
+</div>
+
+---
+
+## Principais tecnologias que estiveram nas minhas jornadas
+
+<div aLign="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.8rem;">
+    <img aLign="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img aLign="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img aLign="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img aLign="center" alt="TypeScript" src="https://img.shields.io/badge/Typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img aLign="center" alt="NodeJS" src="https://img.shields.io/badge/nodejs-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img aLign="center" alt="React" src="https://img.shields.io/badge/React-353947?style=for-the-badge&logo=react" />
+    <img aLign="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-044a64?style=for-the-badge&logo=sqlite" />
+    <img aLign="center" alt="Git" src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
+    <img aLign="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />   
 </div>
