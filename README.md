@@ -55,16 +55,17 @@ I am a computer engineering student at Universidade do Estado de Minas Gerais an
 ## Principais tecnologias que estiveram nas minhas jornadas
 
 <div aLign="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.8rem;">
-    <img aLign="center" alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img aLign="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img aLign="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img aLign="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img aLign="center" alt="TypeScript" src="https://img.shields.io/badge/Typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img aLign="center" alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-    <img aLign="center" alt="NodeJS" src="https://img.shields.io/badge/nodejs-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img aLign="center" alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-    <img aLign="center" alt="React" src="https://img.shields.io/badge/React-353947?style=for-the-badge&logo=react" />
-    <img aLign="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-044a64?style=for-the-badge&logo=sqlite" />
     <img aLign="center" alt="Git" src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
     <img aLign="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />   
+    <img aLign="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img aLign="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img aLign="center" alt="NodeJS" src="https://img.shields.io/badge/nodejs-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img aLign="center" alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+    <img aLign="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img aLign="center" alt="React" src="https://img.shields.io/badge/React-353947?style=for-the-badge&logo=react" />
+    <img aLign="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-044a64?style=for-the-badge&logo=sqlite" />
+    <img aLign="center" alt="TypeScript" src="https://img.shields.io/badge/Typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img aLign="center" alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
