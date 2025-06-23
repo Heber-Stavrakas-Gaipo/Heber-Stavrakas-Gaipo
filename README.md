@@ -56,6 +56,8 @@ I am a computer engineering student at Universidade do Estado de Minas Gerais an
 
 <div aLign="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.8rem;">
     <img aLign="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img aLign="center" alt="C" src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=c&logoColor=white" />
+    <img aLign="center" alt="Cpp" src="https://img.shields.io/badge/CPP-1572B6?style=for-the-badge&logo=cpp&logoColor=white" />
     <img aLign="center" alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
     <img aLign="center" alt="Git" src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
     <img aLign="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />   
