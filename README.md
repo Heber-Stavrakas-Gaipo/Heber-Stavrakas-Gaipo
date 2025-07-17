@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 I am a computer engineering student at Universidade do Estado de Minas Gerais and very interested of this area and everything that can be made with the knowledges achieved on this journey.
 
+I am also a BJJ athlete 💪🏼🥋🇧🇷
+
 ---
 
 <div aLign="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.8rem;">
@@ -32,7 +34,7 @@ I am a computer engineering student at Universidade do Estado de Minas Gerais an
 
 ---
 
-## 📊 Estatísticas do meu perfil
+## 📊 My profile stats
 
 <div align="center">
 
@@ -42,7 +44,7 @@ I am a computer engineering student at Universidade do Estado de Minas Gerais an
 
 ---
 
-## Principais linguagens utilizadas em meus repositórios
+## Top used languages 
 
 <div align="center">
 
@@ -52,7 +54,7 @@ I am a computer engineering student at Universidade do Estado de Minas Gerais an
 
 ---
 
-## Principais tecnologias que estiveram nas minhas jornadas
+## Main techs in my journey
 
 <div aLign="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.8rem;">
     <img aLign="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -71,3 +73,9 @@ I am a computer engineering student at Universidade do Estado de Minas Gerais an
     <img aLign="center" alt="TypeScript" src="https://img.shields.io/badge/Typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img aLign="center" alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
+
+## I have my secrets private repos 🤫
+
+There I have some interesting React and SQL running projects
+
+Hire me to know more...
