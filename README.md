@@ -40,15 +40,7 @@ I am also a BJJ athlete 💪🏼🥋🇧🇷
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heber-Stavrakas-Gaipo&theme=solid&border_color=3299cc&show_icons=true&icon_color=30A3DC&title_color=3299CC&text_color=000&hide_title=true)
 
-</div>
-
----
-
-## Top used languages 
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
