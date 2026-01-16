@@ -1,30 +1,27 @@
-# Hi there, I'm Héber Stavrakas Gaipo and I'm using GitHub
-
 <!--
 **Heber-Stavrakas-Gaipo/Heber-Stavrakas-Gaipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+<div aLign="center">
+
+  <img width="100%" height="202" style="max-width:100vw" alt="profile" src="https://github.com/user-attachments/assets/c127c97c-0af4-47dc-86f9-3e71cd7036dc" />
+  
+</div>
+
 
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=summer">
+  <source media="(prefers-color-scheme: light)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip">
+  <source media="(prefers-color-scheme: dark)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&screen_effect=true&theme=road_trip">
+  <img alt="github stats" src="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip">
 </picture>
 
-- 🔭 I’m currently working on Kromberg & Schubert do Brasil
-- 🌱 I’m currently studying computer engineering 
-- 🤔 I’m not looking for help yet
-- 💬 Ask me about anything
-- 📫 How to reach me: contatohebergaipo@gmail.com
+<div aLign="center">
 
----
+  <img width="100%" height="686" style="max-width:100vw" alt="about" src="https://github.com/user-attachments/assets/5aed1c57-6993-4e0b-a75c-1e423b300e23" />
 
-## About me
 
-I am a computer engineering student at Universidade do Estado de Minas Gerais and very interested of this area and everything that can be made with the knowledges achieved on this journey.
-
-I am also a BJJ athlete 💪🏼🥋🇧🇷
+</div>
 
 ---
 
@@ -43,7 +40,7 @@ I am also a BJJ athlete 💪🏼🥋🇧🇷
 
 <div align="center">
 
-<img style="width:100%" src="https://heber-stavrakas-gaipo-stats.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&include_all_commits=true" alt="Top Langs" />
+<img style="width:100%" src="https://heber-stavrakas-gaipo-stats.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=8&include_all_commits=true" alt="Top Langs" />
 
 </div>
 
