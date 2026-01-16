@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://heber-stavrakas-gaipo-stats.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=summer">
+  <source media="(prefers-color-scheme: light)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=summer">
 </picture>
 
 - 🔭 I’m currently working on Kromberg & Schubert do Brasil
