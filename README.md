@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 <div aLign="center">
 
-  <img width="100%" height="202" style="max-width:100vw" alt="profile" src="https://github.com/user-attachments/assets/c127c97c-0af4-47dc-86f9-3e71cd7036dc" />
+  <img width="100%" height="202" style="max-width:100vw; border-radius: 8px 8px 0 0" alt="profile" src="https://github.com/user-attachments/assets/c127c97c-0af4-47dc-86f9-3e71cd7036dc" />
   
 </div>
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div aLign="center">
 
-  <img width="100%" height="686" style="max-width:100vw" alt="about" src="https://github.com/user-attachments/assets/5aed1c57-6993-4e0b-a75c-1e423b300e23" />
+  <img width="100%" height="686" style="max-width:100vw; border-radius: 0 0 8px 8px" alt="about" src="https://github.com/user-attachments/assets/5aed1c57-6993-4e0b-a75c-1e423b300e23" />
 
 
 </div>
