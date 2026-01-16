@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=summer">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=summer">
+  <img alt="github stats" src="https://heber-stavrakas-gaipo-stats.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=summer">
 </picture>
 
 - 🔭 I’m currently working on Kromberg & Schubert do Brasil
@@ -43,7 +43,7 @@ I am also a BJJ athlete 💪🏼🥋🇧🇷
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&include_all_commits=true" alt="Top Langs" />
+<img style="width:100%" src="https://heber-stavrakas-gaipo-stats.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&include_all_commits=true" alt="Top Langs" />
 
 </div>
 
