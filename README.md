@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
+## Links
 <div aLign="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.8rem;">
   <a href="https://heber-stavrakas-gaipo.github.io/DevLinksTree/" style="margin: 0.4rem 0;"><img aLign="center" alt="DevLinksTree" src="https://img.shields.io/badge/DevLinksTree-hhh?style=for-the-badge" /></a>
   <a href="https://github.com/Heber-Stavrakas-Gaipo" style="margin: 0.4rem 0;"><img aLign="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
