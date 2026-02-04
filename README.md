@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 ## I have my secrets private repos 🤫
 
-There I have some interesting React and SQL running projects
+There I have some interesting React + Vite, React + Next running projects, all with SQL database integration and some with Python automation!
 
 ![](https://github-readme-stats.vercel.app/api?username=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false)<br/>
