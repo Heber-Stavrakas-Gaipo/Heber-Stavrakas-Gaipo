@@ -10,11 +10,15 @@ Here are some ideas to get you started:
 </div>
 
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip">
-  <source media="(prefers-color-scheme: dark)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&screen_effect=true&theme=road_trip">
-  <img alt="github stats" src="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip">
-</picture>
+<div aLign="center">
+
+  <picture decoding="async" loading="lazy">
+    <source media="(prefers-color-scheme: light)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip">
+    <source media="(prefers-color-scheme: dark)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&screen_effect=true&theme=road_trip">
+    <img alt="github stats" src="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip">
+  </picture>
+
+</div>
 
 <div aLign="center">
 
@@ -81,8 +85,12 @@ Here are some ideas to get you started:
 
 There I have some interesting React + Vite, React + Next running projects, all with SQL database integration and some with Python automation!
 
-![](https://github-readme-stats.vercel.app/api?username=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div aLign="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 Hire me to know more...
