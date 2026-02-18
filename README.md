@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 <div aLign="center">
 
   <picture decoding="async" loading="lazy">
-    <source media="(prefers-color-scheme: light)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip&include_all_comits=true">
-    <source media="(prefers-color-scheme: dark)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&screen_effect=true&theme=road_trip&include_all_comits=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip">
+    <source media="(prefers-color-scheme: dark)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&screen_effect=true&theme=road_trip">
     <img alt="github stats" src="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip">
   </picture>
 
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <div aLign="center">
 
   <img width="100%" height="686" style="max-width:100vw; border-radius: 0 0 8px 8px" alt="about" src="https://github.com/user-attachments/assets/5aed1c57-6993-4e0b-a75c-1e423b300e23" />
-
 
 </div>
 
@@ -44,7 +43,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img style="width:100%" src="https://heber-stavrakas-gaipo-stats.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=8&include_all_commits=true" alt="Top Langs" />
+  <img style="width:100%" src="https://heber-stavrakas-gaipo-stats.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=8" alt="Top Langs" />
 
 </div>
 
