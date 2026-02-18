@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 <div aLign="center">
 
   <picture decoding="async" loading="lazy">
-    <source media="(prefers-color-scheme: light)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip">
-    <source media="(prefers-color-scheme: dark)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&screen_effect=true&theme=road_trip">
-    <img alt="github stats" src="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip">
+    <source media="(prefers-color-scheme: light)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip&commits_year=2026">
+    <source media="(prefers-color-scheme: dark)" srcset="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&screen_effect=true&theme=road_trip&commits_year=2026">
+    <img alt="github stats" src="https://heber-stavrakas-gaipo-pixel.vercel.app/api/github-stats?username=Heber-Stavrakas-Gaipo&theme=road_trip&commits_year=2026">
   </picture>
 
 </div>
