@@ -86,9 +86,9 @@ There I have some interesting React + Vite, React + Next running projects, all w
 
 <div aLign="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats-extended.vercel.app/api?username=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats-extended.vercel.app/?user=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false)<br/>
+  ![](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
