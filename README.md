@@ -84,12 +84,9 @@ Here are some ideas to get you started:
 
 There I have some interesting React + Vite, React + Next running projects, all with SQL database integration and some with Python automation!
 
-<div aLign="center">
-
-  ![](https://github-readme-stats-extended.vercel.app/api?username=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://nirzak-streak-stats-extended.vercel.app/?user=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false)<br/>
-  ![](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=Heber-Stavrakas-Gaipo&rank_icon=github&theme=swift&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Heber-Stavrakas-Gaipo&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="39%" />
 </div>
 
 Hire me to know more...
